@@ -1,0 +1,20 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+#intermediate compilation files
+*.o
+*.crf
+*.d
+*.lnp
+*.map
+*.dep
+*.htm
+*.axf
+*.sct
+*.iex
+*.d
+*.eep
+*.elf
+*.lss
+*.srec
+#Atmel studio
+*.atsuo
